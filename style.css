@@ -1,0 +1,17 @@
+.announcement{
+    background-color: teal;
+    width: 100%;
+    height: 30px;
+    
+}
+#marqueeStyle{
+    width:100%;
+    height:100px;
+    direction: right;
+    color: white;
+    font-size: 120%;
+}
+#about iframe{
+ width: 100%;
+    padding-top:15px;
+}
